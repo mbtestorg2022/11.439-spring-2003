@@ -5,6 +5,7 @@ description: Student project report courtesy of Darlene Gallant, Ursula Hester, 
   Sideroff, and Jordan Karp. Used with permission.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/29e4f61ca04d05cb3ab2931bdc1c7cc0_report_master.pdf
 file_type: application/pdf
+parent_uid: 1b939335-29ca-86fe-6f77-0d4b8305733d
 resourcetype: Document
 title: report_master.pdf
 uid: 29e4f61c-a04d-05cb-3ab2-931bdc1c7cc0
